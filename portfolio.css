@@ -1,0 +1,170 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	list-style: none;
+}
+.background {
+     width: 100%;
+     height: 200vh;
+     background-color:#1e1e1e;
+     background-position:center;
+     background-size:cover;
+     display: flex;
+}
+.sidenav{
+	display: flex;
+    left: 0;
+    top: 0;
+    width: 3vw;
+    height: 100vh;
+    background:#3333;
+    position: fixed;
+    
+}
+
+.side_text{
+	position: fixed;
+	transform: rotate(-90deg) translateX(-100%);
+	transform-origin: left top;
+	width: 100vh;
+}
+.text1{
+	display: flex;
+	color: #656565;
+	flex-direction: row-reverse;
+	margin: 10px 315px -21px 0px;
+}
+
+.text2{
+	display: flex;
+	color: #ffff;
+	flex-direction: row-reverse;
+	margin: -17px 200px 0px 0px;
+	font-size: 20px;
+}	
+.main_content{
+	padding: 0px 70px;
+    margin: 250px 0px 0px 0px;
+    position: fixed;
+    color: whitesmoke;
+
+}
+.small_box{
+    width: 150px;
+    height: 50px;
+    border: 1px solid grey;
+    margin: 51px 0px 0px -950px ;
+
+}
+.text3{
+	font-size: 20px;
+	margin: 10px 0px 0px 15px ;
+	color: whitesmoke;
+}
+.text4{
+	font-size: 15px;
+	margin: 80px 0px 0px 10px;
+	color: whitesmoke;
+}
+.big_box{
+    width: 950px;
+    height: 1300px;
+    border: 1px solid grey;
+    margin: 100px 0px 0px 300px ;
+
+
+}
+.col1{
+	width: 260px;
+	height: 300px;
+	border: 1px solid black;
+	margin: 40px 0px 0px 50px;
+}
+.T1{
+   color: white;
+   margin: 25px 0px 0px 50px;
+   font-size: 15px;
+
+}
+
+.col2{
+	width: 480px;
+	height: 300px;
+	border: 1px solid black;
+	margin: -340px 0px 0px 420px;
+}
+
+.T2{
+   color: white;
+   margin: 25px 0px 0px 430px;
+   font-size: 15px;
+
+}
+.col3{
+	width: 240px;
+	height: 300px;
+	border: 1px solid black;
+	margin: 40px 0px 0px 50px;
+}
+.T3{
+   color: white;
+   margin: 25px 0px 0px 55px;
+   font-size: 15px;	
+}
+
+.col4{
+	width: 540px;
+	height: 300px;
+	border: 1px solid black;
+	margin: -345px 0px 0px 370px;
+}
+.T4{
+   color: white;
+   margin: 25px 0px 0px 380px;
+   font-size: 15px;	
+
+}
+
+.col5{
+	width: 240px;
+	height: 300px;
+	border: 1px solid black;
+	margin: 40px 0px 0px 50px;
+}
+.T5{
+   color: white;
+   margin: 25px 0px 0px 55px;
+   font-size: 15px;	
+}
+
+.col6{
+	width: 540px;
+	height: 300px;
+	border: 1px solid black;
+	margin: -340px 0px 0px 370px;
+}
+.T6{
+   color: white;
+   margin: 25px 0px 0px 380px;
+   font-size: 15px;	
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
