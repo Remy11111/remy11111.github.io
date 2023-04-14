@@ -87,7 +87,8 @@
 	height: 30px;
 	border: 1px solid #656565;
 	display: flex;
-	margin: 395px 0px 0px -135px;
+	margin: 0px 0px 0px 0px;
+	background-color: #1e1e1e1e;
 }
 
 .paragraph2{
@@ -100,7 +101,9 @@
 	height: 30px;
 	border: 1px solid #656565;
 	display: flex;
-	margin: 450px 0px 0px -135px;
+	margin: 0px 0px 0px 0px;
+	background-color: #1e1e1e1e;
+
 }
 
 .paragraph3{
@@ -113,7 +116,9 @@
 	height: 30px;
 	border: 1px solid #656565;
 	display: flex;
-	margin: 500px 0px 0px -50px;
+	margin: 0px 0px 0px 0px;
+	background-color: #1e1e1e1e;
+
 }
 
 .paragraph4{
@@ -126,7 +131,9 @@
 	height: 250px;
 	border: 1px solid #656565;
 	display: flex;
-	margin: 550px 0px 0px -90px;
+	margin: 0px 0px 0px 0px;
+	background-color: #1e1e1e1e;
+
 }
 
 .button{
